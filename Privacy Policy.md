@@ -29,7 +29,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-*   [App Store & Privacy]([https://www.google.com/policies/privacy/](https://www.apple.com/legal/privacy/data/en/app-store/))
+*   [App Store & Privacy](https://www.apple.com/legal/privacy/data/en/app-store/)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
