@@ -4,11 +4,11 @@
 - [Politique de Confidentialité](#politique-de-confidentialité)
 - [Datenschutzrichtlinie](#datenschutzrichtlinie)
 - [गोपनीयता नीति](#गोपनीयता-नीति)
-- [Informativa sulla Privacy](#Informativa_sulla_Privacy)
-- [Privacy Policy](#privacy-policy)
-- [Privacy Policy](#privacy-policy)
-- [Privacy Policy](#privacy-policy)
-- [Privacy Policy](#privacy-policy)
+- [Informativa sulla Privacy](#informativa-sulla-privacy)
+- [プライバシーポリシー](#プライバシーポリシー)
+- [Политика конфиденциальности](#политика-конфиденциальности)
+- [Política de Privacidad](#política-de-privacidad)
+- [Gizlilik Politikası](#gizlilik-politikası)
 
 
 
