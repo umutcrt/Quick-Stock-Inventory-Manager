@@ -1,8 +1,8 @@
-#Privacy Policy
+# Privacy Policy
 
 This privacy policy applies to the Quick Stock: Inventory Manager app (hereby referred to as "Application") for mobile devices that was created by MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
-##Information Collection and Use
+## Information Collection and Use
 
 The Application collects information when you download and use it. This information may include information such as
 
