@@ -74,7 +74,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 
 
--------------------------------------------
+-----------------------------
 
 
 
@@ -230,7 +230,628 @@ If you have any questions regarding privacy while using the Application, or have
 
 
 
------------------------------------------------------
+-----------------------------
 
 
 
+# Politique de Confidentialité
+
+Cette politique de confidentialité s'applique à l'application **Quick Stock: Inventory Manager** (ci-après dénommée "**Application**") pour les appareils mobiles, créée par **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ci-après dénommé "**Fournisseur de Services**") en tant que service Freemium. Ce service est fourni "TEL QUEL".
+
+## Collecte et Utilisation des Informations
+
+L'Application collecte des informations lorsque vous la téléchargez et l'utilisez. Ces informations peuvent inclure, par exemple :
+
+- L'adresse IP de votre appareil (ex. : adresse IP)
+- Les pages de l'Application que vous visitez, la date et l'heure de votre visite, le temps passé sur ces pages
+- Le temps passé sur l'Application
+- Le système d'exploitation que vous utilisez sur votre appareil mobile
+
+L'Application ne collecte pas d'informations précises sur la localisation de votre appareil mobile.
+
+L'Application collecte la localisation de votre appareil pour aider le Fournisseur de Services à déterminer votre emplacement géographique approximatif et à utiliser ces données de la manière suivante :
+
+- **Services de Géolocalisation** : Le Fournisseur de Services utilise les données de localisation pour fournir du contenu personnalisé, des recommandations pertinentes et des services basés sur la localisation.
+- **Analyses et Améliorations** : Les données de localisation agrégées et anonymisées aident le Fournisseur de Services à analyser le comportement des utilisateurs, à identifier les tendances et à améliorer les performances et les fonctionnalités globales de l'Application.
+- **Services de Tiers** : Le Fournisseur de Services peut, de manière périodique, transmettre des données de localisation anonymisées à des services externes pour améliorer l'Application et optimiser leurs offres.
+
+Le Fournisseur de Services peut utiliser les informations que vous fournissez pour vous contacter de temps à autre, afin de vous fournir des informations importantes, des notifications nécessaires et des promotions marketing.
+
+Pour une meilleure expérience, lors de l'utilisation de l'Application, le Fournisseur de Services peut vous demander de fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter, **umutcorut@gmail.com**. Les informations demandées par le Fournisseur de Services seront conservées et utilisées comme décrit dans cette politique de confidentialité.
+
+## Accès des Tiers
+
+Seules des données agrégées et anonymisées sont périodiquement transmises à des services externes pour aider le Fournisseur de Services à améliorer l'Application et son service. Le Fournisseur de Services peut partager vos informations avec des tiers de la manière décrite dans cette déclaration de confidentialité.
+
+Veuillez noter que l'Application utilise des services tiers qui ont leur propre Politique de Confidentialité concernant le traitement des données. Voici les liens vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'Application :
+
+- [App Store & Privacy](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+Le Fournisseur de Services peut divulguer les Informations Fournies par l'Utilisateur et les Informations Collectées Automatiquement :
+
+- comme l'exige la loi, pour se conformer à une citation à comparaître ou un processus juridique similaire ;
+- lorsqu'il croit de bonne foi que la divulgation est nécessaire pour protéger ses droits, protéger votre sécurité ou celle d'autrui, enquêter sur une fraude ou répondre à une demande gouvernementale ;
+- avec des fournisseurs de services de confiance qui travaillent en son nom, qui n'ont pas d'utilisation indépendante des informations que nous leur divulguons et qui ont accepté de respecter les règles énoncées dans cette déclaration de confidentialité.
+
+## Droit de Refus
+
+Vous pouvez facilement arrêter toute collecte d'informations par l'Application en la désinstallant. Vous pouvez utiliser les processus de désinstallation standards disponibles dans le cadre de votre appareil mobile ou via la place de marché d'applications mobiles ou le réseau.
+
+## Politique de Conservation des Données
+
+Le Fournisseur de Services conservera les données fournies par l'utilisateur tant que vous utiliserez l'Application et pendant une durée raisonnable par la suite. Si vous souhaitez que nous supprimions les données fournies par l'utilisateur que vous avez transmises via l'Application, veuillez contacter **umutcorut@gmail.com**, et nous vous répondrons dans un délai raisonnable.
+
+## Enfants
+
+Le Fournisseur de Services n'utilise pas l'Application pour solliciter sciemment des données ou faire de la publicité auprès des enfants de moins de 13 ans.
+
+L'Application ne s'adresse à aucune personne âgée de moins de 13 ans. Le Fournisseur de Services ne collecte pas sciemment des informations personnelles identifiables auprès des enfants de moins de 13 ans. Si le Fournisseur de Services découvre qu'un enfant de moins de 13 ans a fourni des informations personnelles, il les supprimera immédiatement de ses serveurs. Si vous êtes parent ou tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez contacter le Fournisseur de Services à **umutcorut@gmail.com** pour qu'il prenne les mesures nécessaires.
+
+## Sécurité
+
+Le Fournisseur de Services est soucieux de la protection de la confidentialité de vos informations. Le Fournisseur de Services met en place des garanties physiques, électroniques et procédurales pour protéger les informations qu'il traite et conserve.
+
+## Modifications
+
+Cette politique de confidentialité peut être mise à jour de temps à autre pour quelque raison que ce soit. Le Fournisseur de Services vous informera de tout changement de la Politique de Confidentialité en mettant à jour cette page avec la nouvelle Politique de Confidentialité. Nous vous conseillons de consulter régulièrement cette Politique de Confidentialité pour prendre connaissance de tout changement, car une utilisation continue est considérée comme une approbation de tous les changements.
+
+Cette politique de confidentialité est en vigueur à compter du **31/10/2024**.
+
+## Votre Consentement
+
+En utilisant l'Application, vous consentez au traitement de vos informations tel que décrit dans cette Politique de Confidentialité, à la fois actuellement et tel que modifié par la suite.
+
+## Nous Contacter
+
+Si vous avez des questions concernant la confidentialité lors de l'utilisation de l'Application ou si vous avez des questions sur les pratiques, veuillez contacter le Fournisseur de Services via email à **umutcorut@gmail.com**.
+
+
+
+-----------------------------
+
+
+
+# Datenschutzrichtlinie
+
+Diese Datenschutzrichtlinie gilt für die **Quick Stock: Inventory Manager** App (nachfolgend als "**Anwendung**" bezeichnet) für mobile Geräte, die von **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (nachfolgend als "**Dienstanbieter**" bezeichnet) als Freemium-Dienst erstellt wurde. Dieser Dienst wird "WIE BESEHEN" bereitgestellt.
+
+## Erfassung und Nutzung von Informationen
+
+Die Anwendung sammelt Informationen, wenn Sie sie herunterladen und verwenden. Diese Informationen können Folgendes umfassen:
+
+- Die Internetprotokolladresse (IP-Adresse) Ihres Geräts (z.B. IP-Adresse)
+- Die Seiten der Anwendung, die Sie besuchen, das Datum und die Uhrzeit Ihres Besuchs, die auf diesen Seiten verbrachte Zeit
+- Die insgesamt in der Anwendung verbrachte Zeit
+- Das Betriebssystem, das Sie auf Ihrem mobilen Gerät verwenden
+
+Die Anwendung sammelt keine genauen Informationen über den Standort Ihres mobilen Geräts.
+
+Die Anwendung sammelt den Standort Ihres Geräts, um dem Dienstanbieter zu helfen, Ihren ungefähren geografischen Standort zu bestimmen und diese Daten auf folgende Weise zu verwenden:
+
+- **Geolokalisierungsdienste**: Der Dienstanbieter nutzt Standortdaten, um Funktionen wie personalisierte Inhalte, relevante Empfehlungen und standortbasierte Dienste bereitzustellen.
+- **Analyse und Verbesserungen**: Aggregierte und anonymisierte Standortdaten helfen dem Dienstanbieter, das Nutzerverhalten zu analysieren, Trends zu erkennen und die Gesamtleistung und Funktionalität der Anwendung zu verbessern.
+- **Dienste Dritter**: Der Dienstanbieter kann anonymisierte Standortdaten periodisch an externe Dienste übermitteln, um die Anwendung zu verbessern und seine Angebote zu optimieren.
+
+Der Dienstanbieter kann die von Ihnen bereitgestellten Informationen nutzen, um Sie von Zeit zu Zeit zu kontaktieren und Ihnen wichtige Informationen, notwendige Mitteilungen und Marketingaktionen bereitzustellen.
+
+Für ein besseres Nutzungserlebnis kann der Dienstanbieter Sie während der Nutzung der Anwendung dazu auffordern, bestimmte personenbezogene Informationen bereitzustellen, einschließlich, aber nicht beschränkt auf **umutcorut@gmail.com**. Die vom Dienstanbieter angeforderten Informationen werden von diesem aufbewahrt und wie in dieser Datenschutzrichtlinie beschrieben verwendet.
+
+## Zugriff durch Dritte
+
+Nur aggregierte, anonymisierte Daten werden regelmäßig an externe Dienste übermittelt, um dem Dienstanbieter bei der Verbesserung der Anwendung und seines Dienstes zu helfen. Der Dienstanbieter kann Ihre Informationen mit Dritten auf die in dieser Datenschutzerklärung beschriebene Weise teilen.
+
+Bitte beachten Sie, dass die Anwendung Drittanbieter-Dienste verwendet, die ihre eigenen Datenschutzrichtlinien zur Handhabung von Daten haben. Nachfolgend finden Sie die Links zur Datenschutzrichtlinie der von der Anwendung verwendeten Drittanbieter-Dienstleister:
+
+- [App Store & Datenschutz](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+Der Dienstanbieter kann von Nutzern bereitgestellte und automatisch gesammelte Informationen weitergeben:
+
+- wie es gesetzlich vorgeschrieben ist, um eine Vorladung zu erfüllen oder ein ähnliches rechtliches Verfahren einzuhalten;
+- wenn der Dienstanbieter in gutem Glauben davon ausgeht, dass die Offenlegung erforderlich ist, um seine Rechte zu schützen, Ihre Sicherheit oder die Sicherheit anderer zu schützen, Betrug zu untersuchen oder auf eine Anfrage der Regierung zu reagieren;
+- an seine vertrauenswürdigen Dienstleister, die in seinem Auftrag arbeiten, keine unabhängige Nutzung der von uns offengelegten Informationen haben und zugestimmt haben, die in dieser Datenschutzerklärung festgelegten Regeln einzuhalten.
+
+## Opt-Out-Rechte
+
+Sie können die Sammlung aller Informationen durch die Anwendung einfach beenden, indem Sie sie deinstallieren. Sie können die Standard-Deinstallationsprozesse verwenden, die möglicherweise als Teil Ihres mobilen Geräts oder über den mobilen Anwendungsmarkt oder das Netzwerk verfügbar sind.
+
+## Datenaufbewahrungsrichtlinie
+
+Der Dienstanbieter speichert die von Nutzern bereitgestellten Daten, solange Sie die Anwendung verwenden und für eine angemessene Zeit danach. Wenn Sie möchten, dass wir von Nutzern bereitgestellte Daten löschen, die Sie über die Anwendung bereitgestellt haben, wenden Sie sich bitte an **umutcorut@gmail.com**, und wir werden Ihnen innerhalb einer angemessenen Frist antworten.
+
+## Kinder
+
+Der Dienstanbieter verwendet die Anwendung nicht, um wissentlich Daten von oder Werbung an Kinder unter 13 Jahren zu richten.
+
+Die Anwendung richtet sich nicht an Personen unter 13 Jahren. Der Dienstanbieter sammelt wissentlich keine persönlich identifizierbaren Informationen von Kindern unter 13 Jahren. Sollte der Dienstanbieter feststellen, dass ein Kind unter 13 Jahren persönliche Informationen bereitgestellt hat, wird er diese umgehend von seinen Servern löschen. Wenn Sie Elternteil oder Vormund sind und wissen, dass Ihr Kind uns persönliche Informationen zur Verfügung gestellt hat, kontaktieren Sie bitte den Dienstanbieter unter **umutcorut@gmail.com**, damit er die erforderlichen Maßnahmen ergreifen kann.
+
+## Sicherheit
+
+Der Dienstanbieter ist besorgt um den Schutz der Vertraulichkeit Ihrer Informationen. Der Dienstanbieter stellt physische, elektronische und verfahrenstechnische Schutzmaßnahmen bereit, um die vom Dienstanbieter verarbeiteten und gespeicherten Informationen zu schützen.
+
+## Änderungen
+
+Diese Datenschutzrichtlinie kann von Zeit zu Zeit aus beliebigen Gründen aktualisiert werden. Der Dienstanbieter wird Sie über Änderungen der Datenschutzrichtlinie informieren, indem er diese Seite mit der neuen Datenschutzrichtlinie aktualisiert. Wir empfehlen Ihnen, diese Datenschutzrichtlinie regelmäßig zu überprüfen, um sich über Änderungen zu informieren, da eine fortgesetzte Nutzung als Zustimmung zu allen Änderungen gilt.
+
+Diese Datenschutzrichtlinie ist gültig ab dem **31.10.2024**.
+
+## Ihre Zustimmung
+
+Durch die Nutzung der Anwendung stimmen Sie der Verarbeitung Ihrer Informationen gemäß dieser Datenschutzrichtlinie zu, sowohl jetzt als auch in der geänderten Fassung.
+
+## Kontaktieren Sie uns
+
+Wenn Sie Fragen zum Datenschutz bei der Nutzung der Anwendung haben oder Fragen zu den Praktiken haben, wenden Sie sich bitte per E-Mail an den Dienstanbieter unter **umutcorut@gmail.com**.
+
+
+
+-----------------------------
+
+
+
+# गोपनीयता नीति
+
+यह गोपनीयता नीति **Quick Stock: Inventory Manager** ऐप (जिसे आगे "**एप्लिकेशन**" के रूप में संदर्भित किया गया है) के लिए है, जिसे **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (जिसे आगे "**सेवा प्रदाता**" के रूप में संदर्भित किया गया है) द्वारा एक फ्रीमियम सेवा के रूप में विकसित किया गया है। यह सेवा "जैसा है" के आधार पर प्रदान की गई है।
+
+## जानकारी का संग्रह और उपयोग
+
+एप्लिकेशन आपके द्वारा इसे डाउनलोड और उपयोग करते समय जानकारी एकत्र करता है। यह जानकारी निम्नलिखित हो सकती है:
+
+- आपके डिवाइस का इंटरनेट प्रोटोकॉल पता (जैसे कि IP पता)
+- आपके द्वारा देखे गए एप्लिकेशन के पृष्ठ, आपके विज़िट का समय और तिथि, उन पृष्ठों पर बिताया गया समय
+- एप्लिकेशन में बिताया गया कुल समय
+- आपके मोबाइल डिवाइस पर उपयोग किए गए ऑपरेटिंग सिस्टम
+
+एप्लिकेशन आपके मोबाइल डिवाइस के सटीक स्थान के बारे में जानकारी एकत्र नहीं करता है।
+
+एप्लिकेशन आपके डिवाइस का स्थान एकत्र करता है, जो सेवा प्रदाता को आपके सन्निकट भौगोलिक स्थान का पता लगाने में मदद करता है और निम्नलिखित तरीकों में इसका उपयोग करता है:
+
+- **जियो-लोकेशन सेवाएँ**: सेवा प्रदाता आपके स्थान डेटा का उपयोग व्यक्तिगत सामग्री, प्रासंगिक सिफारिशें और स्थान आधारित सेवाओं जैसी सुविधाओं के लिए करता है।
+- **विश्लेषण और सुधार**: समेकित और अनाम स्थान डेटा सेवा प्रदाता को उपयोगकर्ता व्यवहार का विश्लेषण करने, रुझानों की पहचान करने और एप्लिकेशन के प्रदर्शन और कार्यक्षमता को सुधारने में मदद करता है।
+- **तृतीय-पक्ष सेवाएँ**: सेवा प्रदाता समय-समय पर बाहरी सेवाओं को अनामित स्थान डेटा प्रेषित कर सकता है। ये सेवाएँ उन्हें एप्लिकेशन को सुधारने और अपनी पेशकशों का अनुकूलन करने में मदद करती हैं।
+
+सेवा प्रदाता आपको समय-समय पर महत्वपूर्ण जानकारी, आवश्यक सूचनाएं और विपणन प्रचार प्रदान करने के लिए आपके द्वारा दी गई जानकारी का उपयोग कर सकता है।
+
+एप्लिकेशन का उपयोग करते समय बेहतर अनुभव के लिए सेवा प्रदाता आपको कुछ व्यक्तिगत पहचान योग्य जानकारी प्रदान करने के लिए कह सकता है, जिसमें **umutcorut@gmail.com** तक सीमित नहीं है। सेवा प्रदाता द्वारा अनुरोधित जानकारी को वे सुरक्षित रखेंगे और इस गोपनीयता नीति में वर्णित अनुसार उपयोग करेंगे।
+
+## तृतीय-पक्ष पहुंच
+
+केवल समेकित, अनाम डेटा समय-समय पर बाहरी सेवाओं को भेजा जाता है ताकि सेवा प्रदाता को एप्लिकेशन और उनकी सेवा में सुधार करने में मदद मिल सके। सेवा प्रदाता इस गोपनीयता वक्तव्य में वर्णित तरीकों से आपकी जानकारी तीसरे पक्षों के साथ साझा कर सकता है।
+
+कृपया ध्यान दें कि एप्लिकेशन उन तृतीय-पक्ष सेवाओं का उपयोग करता है जिनकी अपनी गोपनीयता नीतियाँ होती हैं। नीचे एप्लिकेशन द्वारा उपयोग किए गए तृतीय-पक्ष सेवा प्रदाताओं की गोपनीयता नीतियों के लिंक दिए गए हैं:
+
+- [ऐप स्टोर और गोपनीयता](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+सेवा प्रदाता उपयोगकर्ता द्वारा प्रदान की गई और स्वचालित रूप से एकत्रित जानकारी का खुलासा कर सकता है:
+
+- जैसा कि कानून द्वारा आवश्यक है, जैसे कि एक सम्मन का अनुपालन करना, या इसी तरह की कानूनी प्रक्रिया;
+- जब सेवा प्रदाता अच्छे विश्वास में मानता है कि खुलासा करना उनके अधिकारों की सुरक्षा के लिए, आपकी या दूसरों की सुरक्षा के लिए, धोखाधड़ी की जांच के लिए, या सरकारी अनुरोध का उत्तर देने के लिए आवश्यक है;
+- उनके विश्वसनीय सेवा प्रदाताओं के साथ जो उनकी ओर से काम करते हैं, जिन्हें हमारे द्वारा खुलासा की गई जानकारी का स्वतंत्र उपयोग नहीं होता है, और इस गोपनीयता वक्तव्य में निर्धारित नियमों का पालन करने पर सहमत हुए हैं।
+
+## ऑप्ट-आउट अधिकार
+
+आप एप्लिकेशन द्वारा सभी जानकारी के संग्रहण को इसे अनइंस्टॉल करके आसानी से रोक सकते हैं। आप अपने मोबाइल डिवाइस के हिस्से के रूप में उपलब्ध मानक अनइंस्टॉल प्रक्रियाओं का उपयोग कर सकते हैं या मोबाइल एप्लिकेशन मार्केटप्लेस या नेटवर्क के माध्यम से कर सकते हैं।
+
+## डेटा संरक्षण नीति
+
+सेवा प्रदाता उपयोगकर्ता द्वारा प्रदान किए गए डेटा को तब तक बनाए रखेगा जब तक आप एप्लिकेशन का उपयोग करते हैं और उसके बाद एक उचित समय तक। यदि आप एप्लिकेशन के माध्यम से प्रदान किए गए उपयोगकर्ता डेटा को हटाना चाहते हैं, तो कृपया **umutcorut@gmail.com** पर संपर्क करें और वे आपको एक उचित समय के भीतर जवाब देंगे।
+
+## बच्चे
+
+सेवा प्रदाता एप्लिकेशन का उपयोग जानबूझकर 13 वर्ष से कम उम्र के बच्चों से डेटा एकत्र करने या उन्हें लक्षित विज्ञापन भेजने के लिए नहीं करता है।
+
+एप्लिकेशन 13 वर्ष से कम उम्र के किसी भी व्यक्ति को संबोधित नहीं करता है। सेवा प्रदाता जानबूझकर 13 वर्ष से कम उम्र के बच्चों से व्यक्तिगत रूप से पहचान योग्य जानकारी एकत्र नहीं करता है। यदि सेवा प्रदाता को पता चलता है कि किसी 13 वर्ष से कम उम्र के बच्चे ने व्यक्तिगत जानकारी प्रदान की है, तो वे इसे तुरंत अपने सर्वरों से हटा देंगे। यदि आप एक माता-पिता या अभिभावक हैं और आपको पता है कि आपके बच्चे ने हमें व्यक्तिगत जानकारी प्रदान की है, तो कृपया सेवा प्रदाता से **umutcorut@gmail.com** पर संपर्क करें ताकि वे आवश्यक कार्यवाही कर सकें।
+
+## सुरक्षा
+
+सेवा प्रदाता आपकी जानकारी की गोपनीयता की सुरक्षा के बारे में चिंतित है। सेवा प्रदाता वह भौतिक, इलेक्ट्रॉनिक और प्रक्रियात्मक सुरक्षा उपाय प्रदान करता है जो सेवा प्रदाता की प्रक्रिया और जानकारी की सुरक्षा करता है।
+
+## परिवर्तन
+
+यह गोपनीयता नीति समय-समय पर किसी भी कारण से अपडेट की जा सकती है। सेवा प्रदाता आपको इस पृष्ठ को नई गोपनीयता नीति के साथ अपडेट करके गोपनीयता नीति में किसी भी परिवर्तन के बारे में सूचित करेगा। आपको सलाह दी जाती है कि किसी भी परिवर्तन के लिए इस गोपनीयता नीति को नियमित रूप से देखें, क्योंकि निरंतर उपयोग सभी परिवर्तनों की स्वीकृति मानी जाती है।
+
+यह गोपनीयता नीति **31-10-2024** से प्रभावी है।
+
+## आपकी स्वीकृति
+
+एप्लिकेशन का उपयोग करके, आप इस गोपनीयता नीति में वर्णित रूप में अपनी जानकारी की प्रक्रिया को सहमति दे रहे हैं, अब और हमारे द्वारा संशोधित रूप में।
+
+## हमसे संपर्क करें
+
+यदि आपके पास एप्लिकेशन का उपयोग करते समय गोपनीयता के संबंध में कोई प्रश्न हैं या प्रथाओं के बारे में कोई प्रश्न हैं, तो कृपया ईमेल के माध्यम से सेवा प्रदाता से **umutcorut@gmail.com** पर संपर्क करें।
+
+
+
+-----------------------------
+
+
+
+# Informativa sulla Privacy
+
+Questa informativa sulla privacy si applica all'app **Quick Stock: Inventory Manager** (di seguito denominata "**Applicazione**") per dispositivi mobili, creata da **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (di seguito denominato "**Fornitore di Servizi**") come servizio Freemium. Questo servizio è fornito "così com'è".
+
+## Raccolta e Uso delle Informazioni
+
+L'Applicazione raccoglie informazioni quando la scarichi e la utilizzi. Queste informazioni possono includere:
+
+- L'indirizzo IP del dispositivo (ad esempio, indirizzo IP)
+- Le pagine dell'Applicazione che visiti, l'ora e la data della tua visita, il tempo trascorso su quelle pagine
+- Il tempo complessivo trascorso sull'Applicazione
+- Il sistema operativo utilizzato sul tuo dispositivo mobile
+
+L'Applicazione non raccoglie informazioni precise sulla posizione del dispositivo.
+
+L'Applicazione raccoglie la posizione approssimativa del tuo dispositivo, che aiuta il Fornitore di Servizi a determinare la tua posizione geografica approssimativa e la utilizza nei modi seguenti:
+
+- **Servizi di geolocalizzazione**: il Fornitore di Servizi utilizza i dati di posizione per fornire contenuti personalizzati, raccomandazioni pertinenti e servizi basati sulla posizione.
+- **Analisi e miglioramenti**: dati aggregati e anonimizzati sulla posizione aiutano il Fornitore di Servizi ad analizzare il comportamento degli utenti, identificare tendenze e migliorare le prestazioni e la funzionalità complessiva dell'Applicazione.
+- **Servizi di terze parti**: periodicamente, il Fornitore di Servizi può trasmettere dati di posizione anonimizzati a servizi esterni. Questi servizi lo assistono nel migliorare l'Applicazione e ottimizzare le sue offerte.
+
+Il Fornitore di Servizi può utilizzare le informazioni che hai fornito per contattarti di tanto in tanto e fornirti informazioni importanti, avvisi necessari e promozioni di marketing.
+
+Per un'esperienza migliore durante l'utilizzo dell'Applicazione, il Fornitore di Servizi potrebbe richiederti di fornire alcune informazioni personali identificabili, inclusa, ma non limitata a, **umutcorut@gmail.com**. Le informazioni richieste dal Fornitore di Servizi verranno conservate e utilizzate come descritto in questa informativa sulla privacy.
+
+## Accesso di Terze Parti
+
+Solo dati aggregati e anonimizzati vengono periodicamente trasmessi a servizi esterni per aiutare il Fornitore di Servizi a migliorare l'Applicazione e il proprio servizio. Il Fornitore di Servizi può condividere le tue informazioni con terze parti nei modi descritti in questa informativa sulla privacy.
+
+Si prega di notare che l'Applicazione utilizza servizi di terze parti che hanno la propria informativa sulla privacy riguardo alla gestione dei dati. Di seguito sono riportati i collegamenti alle informative sulla privacy dei fornitori di servizi di terze parti utilizzati dall'Applicazione:
+
+- [App Store & Privacy](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+Il Fornitore di Servizi può divulgare le Informazioni fornite dall'Utente e quelle raccolte automaticamente:
+
+- come richiesto dalla legge, per esempio per ottemperare a un mandato di comparizione o a un processo legale simile;
+- quando crede in buona fede che la divulgazione sia necessaria per proteggere i suoi diritti, garantire la tua sicurezza o quella degli altri, indagare su frodi o rispondere a una richiesta governativa;
+- con fornitori di servizi affidabili che lavorano per suo conto, che non possono utilizzare indipendentemente le informazioni che divulghiamo loro e che hanno accettato di aderire alle regole stabilite in questa informativa sulla privacy.
+
+## Diritti di Opt-Out
+
+Puoi interrompere facilmente la raccolta di informazioni da parte dell'Applicazione disinstallandola. Puoi utilizzare i processi di disinstallazione standard disponibili sul tuo dispositivo mobile o tramite il marketplace di applicazioni o la rete mobile.
+
+## Politica di Conservazione dei Dati
+
+Il Fornitore di Servizi conserverà i dati forniti dall'utente per tutto il tempo in cui utilizzerai l'Applicazione e per un periodo ragionevole successivo. Se desideri che cancellino i dati forniti tramite l'Applicazione, contattali all'indirizzo **umutcorut@gmail.com** e ti risponderanno in un tempo ragionevole.
+
+## Minori
+
+Il Fornitore di Servizi non utilizza l'Applicazione per raccogliere consapevolmente dati da minori di 13 anni o per rivolgere marketing a loro.
+
+L'Applicazione non è rivolta a minori di 13 anni. Il Fornitore di Servizi non raccoglie consapevolmente informazioni personali identificabili da bambini di età inferiore ai 13 anni. Se il Fornitore di Servizi scopre che un bambino sotto i 13 anni ha fornito informazioni personali, queste verranno immediatamente eliminate dai suoi server. Se sei un genitore o un tutore e sei a conoscenza che tuo figlio ha fornito informazioni personali, contatta il Fornitore di Servizi all'indirizzo **umutcorut@gmail.com** affinché possa prendere le misure necessarie.
+
+## Sicurezza
+
+Il Fornitore di Servizi è preoccupato per la salvaguardia della riservatezza delle tue informazioni. Il Fornitore di Servizi fornisce misure di protezione fisiche, elettroniche e procedurali per proteggere le informazioni che tratta e conserva.
+
+## Modifiche
+
+Questa Informativa sulla Privacy può essere aggiornata periodicamente per qualsiasi motivo. Il Fornitore di Servizi ti notificherà qualsiasi modifica all'Informativa sulla Privacy aggiornando questa pagina con la nuova Informativa. Ti consigliamo di consultare regolarmente questa Informativa sulla Privacy per eventuali modifiche, poiché l'uso continuato implica l'approvazione di tutte le modifiche.
+
+Questa informativa sulla privacy è efficace dal **31-10-2024**.
+
+## Il tuo Consenso
+
+Utilizzando l'Applicazione, acconsenti al trattamento delle tue informazioni come stabilito in questa Informativa sulla Privacy ora e come eventualmente modificata.
+
+## Contattaci
+
+Se hai domande riguardanti la privacy durante l'utilizzo dell'Applicazione o domande sulle pratiche, contatta il Fornitore di Servizi via e-mail all'indirizzo **umutcorut@gmail.com**.
+
+
+
+-----------------------------
+
+
+
+# プライバシーポリシー
+
+このプライバシーポリシーは、モバイルデバイス用アプリ**Quick Stock: Inventory Manager**（以下「**アプリケーション**」といいます）に適用されます。このアプリケーションは、**MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下「**サービス提供者**」といいます）によって、Freemiumサービスとして提供されています。本サービスは「現状のまま」で提供されます。
+
+## 情報の収集と利用
+
+アプリケーションは、ダウンロードして利用するときに情報を収集します。この情報には、以下のようなものが含まれることがあります。
+
+- デバイスのインターネットプロトコルアドレス（例: IPアドレス）
+- アプリケーション内で閲覧したページ、訪問日時、閲覧に費やした時間
+- アプリケーション内での総利用時間
+- 使用しているモバイルデバイスのオペレーティングシステム
+
+アプリケーションは、デバイスの正確な位置情報を収集しません。
+
+アプリケーションはデバイスの大まかな位置情報を収集し、サービス提供者が位置情報を以下の方法で利用できるようにします。
+
+- **位置情報サービス**: サービス提供者は、位置データを使用してパーソナライズされたコンテンツ、関連する推奨事項、位置ベースのサービスを提供します。
+- **分析と改善**: 集計された匿名の位置データにより、サービス提供者はユーザー行動を分析し、傾向を把握し、アプリケーションのパフォーマンスと機能を向上させることができます。
+- **サードパーティサービス**: 定期的に、サービス提供者は匿名の位置データを外部サービスに送信することがあります。これらのサービスは、アプリケーションの改善とオファーの最適化に役立ちます。
+
+サービス提供者は、あなたが提供した情報を使用して、重要な情報や必要な通知、マーケティングプロモーションを提供するために、適宜連絡を行うことがあります。
+
+より良いエクスペリエンスのために、アプリケーションを使用する際に、サービス提供者は、**umutcorut@gmail.com**を含む、個人を識別できる情報の提供を求める場合があります。サービス提供者が要求する情報は保持され、このプライバシーポリシーに記載された方法で利用されます。
+
+## サードパーティへのアクセス
+
+サービス提供者がアプリケーションとそのサービスを改善するために、集計された匿名のデータが定期的に外部サービスに送信されることがあります。サービス提供者は、プライバシーに関する本声明に記載された方法で、あなたの情報を第三者と共有する場合があります。
+
+なお、アプリケーションはデータの取り扱いについて独自のプライバシーポリシーを持つサードパーティサービスを利用しています。アプリケーションで使用されているサードパーティサービスのプライバシーポリシーへのリンクは以下のとおりです。
+
+- [App Store & Privacy](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+サービス提供者は以下の場合に、ユーザーが提供した情報および自動的に収集された情報を開示することがあります。
+
+- 法律で義務付けられている場合（例: 召喚状や類似の法的手続きへの対応）
+- 正当な権利の保護、安全の確保、詐欺の調査、政府の要求への対応が必要と判断される場合
+- サービス提供者のために働く信頼できるサービスプロバイダーと共有する場合（これらのプロバイダーは、提供された情報を独自に利用することはなく、本プライバシー声明に従うことに同意しています）
+
+## オプトアウト権
+
+アプリケーションの情報収集を停止するには、アプリケーションをアンインストールしてください。モバイルデバイスやアプリケーションマーケットプレイスで提供されている標準のアンインストールプロセスを使用できます。
+
+## データの保存方針
+
+サービス提供者は、ユーザーが提供したデータをアプリケーションの利用期間中およびその後の適切な期間にわたって保持します。アプリケーションを通じて提供されたユーザー提供データの削除を希望する場合は、**umutcorut@gmail.com**に連絡してください。合理的な期間内に対応いたします。
+
+## 子供に関する情報
+
+サービス提供者は、アプリケーションを通じて13歳未満の子供からデータを意図的に収集したり、彼らにマーケティングを行ったりすることはありません。
+
+アプリケーションは13歳未満の者を対象としていません。サービス提供者は、13歳未満の子供から個人を特定できる情報を意図的に収集することはありません。13歳未満の子供が個人情報を提供したことが判明した場合、この情報は即座にサーバーから削除されます。保護者の方で、お子様が個人情報を提供したことに気付かれた場合は、**umutcorut@gmail.com**までご連絡いただき、適切な措置を取ることができるようにしてください。
+
+## セキュリティ
+
+サービス提供者は、あなたの情報の機密性を保護するために配慮しています。サービス提供者は、処理および保存される情報を保護するための物理的、電子的、手続き上の保護手段を提供します。
+
+## 変更
+
+このプライバシーポリシーは、必要に応じて随時更新されることがあります。サービス提供者は、プライバシーポリシーの変更をこのページで新しいポリシーを表示することにより通知します。変更がないか定期的にこのプライバシーポリシーを確認することをお勧めします。継続してアプリケーションを使用することで、すべての変更に同意したものとみなされます。
+
+このプライバシーポリシーは**2024年10月31日**より有効です。
+
+## あなたの同意
+
+アプリケーションを使用することにより、現在および将来の変更があっても、このプライバシーポリシーに記載された情報の処理に同意したものとみなされます。
+
+## お問い合わせ
+
+アプリケーションを使用中にプライバシーに関する質問がある場合、またはプラクティスについての質問がある場合は、**umutcorut@gmail.com**までサービス提供者にお問い合わせください。
+
+
+
+-----------------------------
+
+
+
+# Политика конфиденциальности
+
+Настоящая Политика конфиденциальности применяется к мобильному приложению **Quick Stock: Inventory Manager** (далее - «**Приложение**»), которое предоставляется компанией **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (далее - «**Поставщик услуг**»). Приложение предоставляется как Freemium сервис на основе «как есть».
+
+## Сбор и использование информации
+
+Приложение собирает информацию при загрузке и использовании. Эта информация может включать:
+
+- IP-адрес устройства
+- Просмотренные страницы в приложении, дату и время посещения, продолжительность просмотра
+- Общее время использования приложения
+- Операционная система используемого мобильного устройства
+
+Приложение не собирает точную геолокацию устройства.
+
+Приложение собирает приблизительное местоположение устройства, что позволяет Поставщику услуг использовать эту информацию следующим образом:
+
+- **Услуги на основе местоположения**: Поставщик услуг использует данные о местоположении для предоставления персонализированного контента, рекомендаций и услуг.
+- **Анализ и улучшение**: Обезличенные данные о местоположении помогают анализировать поведение пользователей, понимать тенденции, улучшать производительность и функциональность приложения.
+- **Сторонние сервисы**: Поставщик услуг может периодически отправлять анонимные данные о местоположении сторонним сервисам для улучшения приложения и оптимизации предложений.
+
+Поставщик услуг может связываться с вами для предоставления важной информации, необходимых уведомлений и рекламных предложений на основе предоставленных вами данных.
+
+Для улучшения пользовательского опыта при использовании приложения Поставщик услуг может запросить предоставление персональных данных, таких как электронная почта **umutcorut@gmail.com**. Эта информация будет храниться и использоваться согласно этой Политике конфиденциальности.
+
+## Доступ для сторонних сервисов
+
+Для улучшения приложения и предоставляемых услуг Поставщик услуг может передавать анонимные агрегированные данные сторонним сервисам. В соответствии с этой Политикой конфиденциальности Поставщик услуг может делиться вашими данными со сторонними партнёрами.
+
+Приложение использует сторонние сервисы, которые имеют свои собственные политики конфиденциальности. Политики конфиденциальности сторонних сервисов, используемых приложением, можно найти по следующим ссылкам:
+
+- [App Store & Privacy](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+Поставщик услуг может раскрыть предоставленную вами информацию и автоматически собранные данные в следующих случаях:
+
+- Когда это требуется по закону (например, для ответа на повестку или аналогичный юридический процесс)
+- Когда это необходимо для защиты законных прав, безопасности, расследования мошенничества или для ответа на запросы государственных органов
+- Когда информация передаётся доверенным поставщикам услуг, работающим от имени Поставщика услуг (при этом они обязаны соблюдать эту Политику конфиденциальности и не использовать предоставленные данные в личных целях)
+
+## Право отказаться от сбора данных
+
+Чтобы прекратить сбор информации приложением, удалите его с устройства. Это можно сделать с помощью стандартного процесса удаления на мобильном устройстве или в магазине приложений.
+
+## Политика хранения данных
+
+Поставщик услуг сохраняет данные, предоставленные пользователем, в течение всего периода использования приложения и на протяжении разумного времени после этого. Если вы хотите удалить данные, предоставленные через приложение, обратитесь по адресу **umutcorut@gmail.com**. Мы постараемся удовлетворить ваш запрос в разумные сроки.
+
+## Информация о детях
+
+Поставщик услуг намеренно не собирает и не использует данные детей младше 13 лет через приложение и не ведёт маркетинг для них.
+
+Приложение не предназначено для использования детьми младше 13 лет. Поставщик услуг не собирает намеренно персональные данные у детей младше 13 лет. Если станет известно, что ребенок младше 13 лет предоставил персональные данные, эти данные будут немедленно удалены с серверов. Если вы — родитель и узнали, что ваш ребёнок предоставил свои данные, пожалуйста, свяжитесь с нами по адресу **umutcorut@gmail.com** для принятия необходимых мер.
+
+## Безопасность
+
+Поставщик услуг прилагает все усилия для обеспечения конфиденциальности вашей информации. Мы предоставляем физические, электронные и процедурные меры защиты информации, обрабатываемой и хранящейся у нас.
+
+## Изменения
+
+Эта Политика конфиденциальности может обновляться. Поставщик услуг уведомит вас о любых изменениях, опубликовав новую политику на этой странице. Мы рекомендуем регулярно просматривать эту Политику конфиденциальности на предмет изменений. Продолжение использования приложения будет означать ваше согласие с изменениями.
+
+Эта Политика конфиденциальности действует с **31 октября 2024 года**.
+
+## Ваше согласие
+
+Используя приложение, вы соглашаетесь на обработку информации в соответствии с этой Политикой конфиденциальности, включая все возможные изменения в будущем.
+
+## Контакты
+
+Если у вас возникли вопросы по поводу конфиденциальности или данной Политики, пожалуйста, свяжитесь с нами по адресу **umutcorut@gmail.com**.
+
+
+
+-----------------------------
+
+
+
+# Política de Privacidad
+
+Esta Política de Privacidad se aplica a la aplicación móvil **Quick Stock: Inventory Manager** (en adelante, "la **Aplicación**"), creada por **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (en adelante, "el **Proveedor de Servicios**"). La Aplicación se ofrece como un servicio Freemium y se proporciona tal cual ("AS IS").
+
+## Recopilación y Uso de Información
+
+La Aplicación recopila información cuando la descargas y la usas. Esta información puede incluir:
+
+- La dirección de Protocolo de Internet (IP) de tu dispositivo
+- Las páginas de la Aplicación que visitas, la fecha y hora de la visita, y el tiempo que pasas en ellas
+- El tiempo total que pasas en la Aplicación
+- El sistema operativo de tu dispositivo móvil
+
+La Aplicación no recopila información precisa sobre la ubicación de tu dispositivo móvil.
+
+La Aplicación recopila una ubicación aproximada de tu dispositivo, que permite al Proveedor de Servicios utilizar esta información de las siguientes formas:
+
+- **Servicios basados en ubicación**: El Proveedor de Servicios utiliza datos de ubicación para ofrecer contenido personalizado, recomendaciones relevantes y servicios basados en ubicación.
+- **Análisis y Mejoras**: Los datos de ubicación anonimizados ayudan a analizar el comportamiento de los usuarios, identificar tendencias y mejorar el rendimiento y funcionalidad de la Aplicación.
+- **Servicios de terceros**: El Proveedor de Servicios puede enviar periódicamente datos de ubicación anonimizados a servicios externos para mejorar la Aplicación y optimizar sus ofertas.
+
+El Proveedor de Servicios puede utilizar la información que has proporcionado para contactarte ocasionalmente con información importante, avisos necesarios y promociones de marketing.
+
+Para mejorar la experiencia, mientras usas la Aplicación, el Proveedor de Servicios puede pedirte ciertos datos de identificación personal, como **umutcorut@gmail.com**. La información solicitada se retendrá y utilizará según se describe en esta Política de Privacidad.
+
+## Acceso de Terceros
+
+Para mejorar la Aplicación y sus servicios, el Proveedor de Servicios puede transmitir datos agregados y anonimizados a servicios externos. De acuerdo con esta Política de Privacidad, el Proveedor de Servicios puede compartir tus datos con terceros.
+
+La Aplicación utiliza servicios de terceros que tienen sus propias Políticas de Privacidad para el manejo de datos. A continuación se encuentran los enlaces a las Políticas de Privacidad de los proveedores de servicios de terceros utilizados por la Aplicación:
+
+- [App Store & Privacy](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+El Proveedor de Servicios puede revelar información proporcionada por el usuario e información recopilada automáticamente en los siguientes casos:
+
+- Cuando la ley lo requiera, como para cumplir con una citación u otro proceso legal similar
+- Cuando el Proveedor de Servicios crea de buena fe que la divulgación es necesaria para proteger sus derechos, proteger tu seguridad o la de otros, investigar fraudes o responder a una solicitud del gobierno
+- Cuando la información es proporcionada a proveedores de servicios de confianza que trabajan en nombre del Proveedor de Servicios, sin uso independiente de la información que se les proporciona, y han acordado cumplir con esta Política de Privacidad
+
+## Derechos de Exclusión
+
+Puedes detener fácilmente toda la recopilación de información por parte de la Aplicación desinstalándola. Puedes utilizar los procesos de desinstalación estándar de tu dispositivo móvil o a través de la tienda de aplicaciones.
+
+## Política de Retención de Datos
+
+El Proveedor de Servicios retendrá los datos proporcionados por el usuario mientras utilices la Aplicación y durante un tiempo razonable después de ello. Si deseas que eliminemos los datos proporcionados a través de la Aplicación, por favor contacta con nosotros en **umutcorut@gmail.com**, y responderemos en un tiempo razonable.
+
+## Niños
+
+El Proveedor de Servicios no utiliza la Aplicación para solicitar datos de niños menores de 13 años ni para hacerles marketing.
+
+La Aplicación no está dirigida a personas menores de 13 años. El Proveedor de Servicios no recopila intencionadamente información personal de niños menores de 13 años. Si el Proveedor de Servicios descubre que un niño menor de 13 años ha proporcionado información personal, la eliminará de inmediato de sus servidores. Si eres un padre o tutor y estás al tanto de que tu hijo nos ha proporcionado información personal, por favor contáctanos en **umutcorut@gmail.com** para que podamos tomar las medidas necesarias.
+
+## Seguridad
+
+El Proveedor de Servicios se preocupa por proteger la confidencialidad de tu información. Proporcionamos medidas de seguridad físicas, electrónicas y de procedimiento para proteger la información que procesamos y mantenemos.
+
+## Cambios
+
+Esta Política de Privacidad puede actualizarse periódicamente. El Proveedor de Servicios te notificará cualquier cambio en la Política de Privacidad actualizando esta página con la nueva Política de Privacidad. Te recomendamos consultar regularmente esta Política de Privacidad para estar al tanto de cualquier cambio. El uso continuado de la Aplicación se considerará como aceptación de los cambios.
+
+Esta Política de Privacidad es efectiva a partir del **31 de octubre de 2024**.
+
+## Tu Consentimiento
+
+Al usar la Aplicación, aceptas el procesamiento de tu información según lo establecido en esta Política de Privacidad, incluidas todas las modificaciones futuras.
+
+## Contáctanos
+
+Si tienes alguna pregunta sobre la privacidad mientras usas la Aplicación, o preguntas sobre nuestras prácticas, no dudes en contactarnos en **umutcorut@gmail.com**.
+
+
+
+-----------------------------
+
+
+
+# Gizlilik Politikası
+
+Bu gizlilik politikası, MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından oluşturulan **Quick Stock: Inventory Manager** uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet, "AS IS" olarak sunulan bir Freemium hizmetidir.
+
+## Bilgi Toplama ve Kullanım
+
+Uygulama, indirildiğinde ve kullanıldığında bilgi toplar. Bu bilgi şunları içerebilir:
+
+- Cihazınızın İnternet Protokol adresi (örneğin, IP adresi)
+- Ziyaret ettiğiniz Uygulama sayfaları, ziyaret tarih ve saati, bu sayfalarda geçirilen süre
+- Uygulama üzerinde geçirilen toplam süre
+- Mobil cihazınızdaki işletim sistemi
+
+Uygulama, mobil cihazınızın kesin konum bilgilerini toplamaz.
+
+Uygulama, cihazınızın konumunu toplayarak Hizmet Sağlayıcının aşağıdaki şekillerde yaklaşık coğrafi konumunuzu belirlemesine yardımcı olur:
+
+- **Konum Hizmetleri**: Hizmet Sağlayıcı, konum verilerini kişiselleştirilmiş içerik, ilgili öneriler ve konum tabanlı hizmetler gibi özellikler sağlamak için kullanır.
+- **Analiz ve İyileştirmeler**: Toplanan ve anonimleştirilen konum verileri, kullanıcı davranışını analiz etmek, eğilimleri belirlemek ve Uygulamanın genel performansını ve işlevselliğini iyileştirmek için kullanılır.
+- **Üçüncü Taraf Hizmetleri**: Hizmet Sağlayıcı, dönem dönem anonimleştirilmiş konum verilerini dış hizmetlere iletebilir. Bu hizmetler, Uygulamayı geliştirmelerine ve sundukları hizmetleri optimize etmelerine yardımcı olur.
+
+Hizmet Sağlayıcı, sağladığınız bilgileri zaman zaman önemli bilgiler, gerekli bildirimler ve pazarlama promosyonları sağlamak amacıyla sizinle iletişim kurmak için kullanabilir.
+
+Daha iyi bir deneyim için, Uygulamayı kullanırken, Hizmet Sağlayıcı sizden belirli kişisel tanımlanabilir bilgileri, bunlarla sınırlı olmamak üzere **umutcorut@gmail.com** adresini vermenizi isteyebilir. Hizmet Sağlayıcının talep ettiği bilgiler, bu gizlilik politikasında belirtildiği gibi saklanacak ve kullanılacaktır.
+
+## Üçüncü Taraf Erişimi
+
+Yalnızca toplanan verilerin anonimleştirilmiş ve toplu verileri, Hizmet Sağlayıcının Uygulamayı ve hizmetlerini iyileştirmesine yardımcı olmak amacıyla dönem dönem dış hizmetlere iletilir. Hizmet Sağlayıcı, bilgilerinizi bu gizlilik beyanında tanımlanan şekillerde üçüncü taraflarla paylaşabilir.
+
+Lütfen, Uygulamanın veri işleme ile ilgili kendi Gizlilik Politikasına sahip üçüncü taraf hizmetler kullandığını unutmayın. Uygulamanın kullandığı üçüncü taraf hizmet sağlayıcıların Gizlilik Politikası bağlantıları aşağıda verilmiştir:
+
+- [App Store & Gizlilik](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
+
+Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan ve Otomatik Olarak Toplanan Bilgileri şu durumlarda açıklayabilir:
+
+- Yasal olarak gerektiği durumlarda, örneğin bir mahkeme celbine veya benzeri bir yasal süreçle uyum sağlamak için;
+- Kendi haklarını korumak, sizin veya başkalarının güvenliğini sağlamak, dolandırıcılığı araştırmak veya bir hükümet talebine yanıt vermek için iyi niyetle açıklamanın gerekli olduğuna inandıklarında;
+- Hizmet Sağlayıcının adına çalışan ve kendilerine açıklanan bilgileri bağımsız olarak kullanmayan, güvenilir hizmet sağlayıcılarıyla paylaşabilir.
+
+## İptal Hakkı
+
+Uygulama tarafından bilgi toplanmasını durdurmanın en kolay yolu, Uygulamayı kaldırmaktır. Uygulamayı kaldırmak için mobil cihazınıza veya mobil uygulama pazarına ait standart kaldırma işlemlerini kullanabilirsiniz.
+
+## Veri Saklama Politikası
+
+Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri, Uygulamayı kullandığınız sürece ve sonrasında makul bir süre boyunca saklayacaktır. Uygulama aracılığıyla sağladığınız Kullanıcı Tarafından Sağlanan Verilerin silinmesini istiyorsanız, lütfen **umutcorut@gmail.com** adresiyle iletişime geçin, makul bir süre içinde yanıt verecektir.
+
+## Çocuklar
+
+Hizmet Sağlayıcı, 13 yaş altındaki çocuklardan veri talep etmemekte veya pazarlama yapmamaktadır.
+
+Uygulama, 13 yaş altındaki hiç kimseye yönelik değildir. Hizmet Sağlayıcı, 13 yaş altındaki çocuklardan kasten kişisel tanımlanabilir bilgi toplamaz. Eğer Hizmet Sağlayıcı, 13 yaş altındaki bir çocuğun kişisel bilgi sağladığını keşfederse, bu bilgileri derhal sunucularından silecektir. Eğer bir ebeveyn veya vasıysanız ve çocuğunuzun bize kişisel bilgi sağladığını biliyorsanız, lütfen Hizmet Sağlayıcı ile **umutcorut@gmail.com** adresinden iletişime geçin, böylece gerekli önlemleri alabiliriz.
+
+## Güvenlik
+
+Hizmet Sağlayıcı, bilgilerinizi gizli tutma konusunda endişelidir. Hizmet Sağlayıcı, işlediği ve koruduğu bilgileri korumak için fiziksel, elektronik ve prosedürel güvenlik önlemleri sağlar.
+
+## Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Hizmet Sağlayıcı, Gizlilik Politikasındaki değişiklikleri, bu sayfayı yeni Gizlilik Politikası ile güncelleyerek bildirecektir. Bu Gizlilik Politikasını düzenli olarak kontrol etmeniz önerilir; devam eden kullanım, tüm değişikliklerin onayı olarak kabul edilir.
+
+Bu gizlilik politikası, **31 Ekim 2024** itibarıyla geçerlidir.
+
+## Onayınız
+
+Uygulamayı kullanarak, bilgilerinizi bu Gizlilik Politikasında belirtilen şekilde işlenmesine onay vermiş olursunuz; bu onay, gelecekteki değişiklikleri de kapsar.
+
+## İletişim
+
+Uygulamayı kullanırken gizlilikle ilgili herhangi bir sorunuz varsa veya uygulama ile ilgili uygulama yöntemlerimiz hakkında sorularınız varsa, lütfen Hizmet Sağlayıcı ile **umutcorut@gmail.com** adresinden iletişime geçin.
+
+
+
+-----------------------------
