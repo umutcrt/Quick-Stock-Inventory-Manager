@@ -1,4 +1,4 @@
-**Terms & Conditions**  
+# Terms & Conditions**  
 
 These terms and conditions applies to the Quick Stock: Inventory Manager app (hereby referred to as "Application") for mobile devices that was created by MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (hereby referred to as "Service Provider") as a Freemium service.
 
