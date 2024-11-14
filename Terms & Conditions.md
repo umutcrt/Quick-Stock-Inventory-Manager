@@ -27,7 +27,7 @@
 
 # Terms & Conditions
 
-These terms and conditions applies to the Quick Stock: Inventory Manager app (hereby referred to as "Application") for mobile devices that was created by MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions applies to the **Quick Stock** app (hereby referred to as "Application") for mobile devices that was created by MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
@@ -68,7 +68,7 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 
 # الشروط والأحكام
 
-تنطبق هذه الشروط والأحكام على تطبيق **Quick Stock: Inventory Manager** (ويشار إليه فيما بعد باسم "التطبيق") لأجهزة الهاتف المحمول، الذي تم إنشاؤه من قبل **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ويشار إليه فيما بعد باسم "مزود الخدمة") كخدمة مجانية.
+تنطبق هذه الشروط والأحكام على تطبيق **Quick Stock** (ويشار إليه فيما بعد باسم "التطبيق") لأجهزة الهاتف المحمول، الذي تم إنشاؤه من قبل **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ويشار إليه فيما بعد باسم "مزود الخدمة") كخدمة مجانية.
 
 بمجرد تنزيل أو استخدام التطبيق، فإنك توافق تلقائيًا على الشروط التالية. يُنصح بشدة بقراءة وفهم هذه الشروط جيدًا قبل استخدام التطبيق. يمنع منعًا باتًا نسخ أو تعديل التطبيق أو أي جزء منه أو علامتنا التجارية دون إذن. كما يحظر محاولة استخراج شفرة المصدر للتطبيق أو ترجمته إلى لغات أخرى أو إنشاء إصدارات مشتقة منه. تظل جميع الحقوق المتعلقة بالعلامات التجارية وحقوق الطبع والنشر وحقوق قاعدة البيانات والملكية الفكرية الأخرى المتعلقة بالتطبيق ملكًا لمزود الخدمة.
 
@@ -109,7 +109,7 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 
 # 条款和条件
 
-本条款和条件适用于移动设备的 **Quick Stock: Inventory Manager** 应用程序（以下简称“应用程序”），该应用由 **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下简称“服务提供商”）创建，作为免费增值服务提供。
+本条款和条件适用于移动设备的 **Quick Stock** 应用程序（以下简称“应用程序”），该应用由 **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下简称“服务提供商”）创建，作为免费增值服务提供。
 
 下载或使用应用程序即表示您自动同意以下条款。强烈建议您在使用应用程序之前，仔细阅读并理解这些条款。未经授权，严禁复制、修改应用程序或应用程序的任何部分，也不得对我们的商标进行任何操作。严禁尝试提取应用程序的源代码、将其翻译为其他语言或创建衍生版本。与应用程序相关的所有商标、版权、数据库权利和其他知识产权归服务提供商所有。
 
@@ -150,7 +150,7 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 
 # Conditions Générales d'Utilisation
 
-Ces conditions générales s'appliquent à l'application **Quick Stock: Inventory Manager** (ci-après dénommée "l'Application") pour les appareils mobiles, créée par **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ci-après dénommée "le Prestataire de Service") en tant que service Freemium.
+Ces conditions générales s'appliquent à l'application **Quick Stock** (ci-après dénommée "l'Application") pour les appareils mobiles, créée par **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ci-après dénommée "le Prestataire de Service") en tant que service Freemium.
 
 En téléchargeant ou en utilisant l'Application, vous acceptez automatiquement les conditions suivantes. Il est fortement conseillé de lire attentivement ces conditions avant d'utiliser l'Application. Toute copie, modification non autorisée de l'Application, d'une partie de l'Application, ou de nos marques commerciales est strictement interdite. Toute tentative d'extraction du code source de l'Application, de traduction de l'Application dans d'autres langues, ou de création de versions dérivées n'est pas permise. Tous les droits de marque, droits d'auteur, droits de base de données et autres droits de propriété intellectuelle liés à l'Application demeurent la propriété du Prestataire de Service.
 
@@ -191,7 +191,7 @@ Si vous avez des questions ou des suggestions concernant les Conditions Généra
 
 # Allgemeine Geschäftsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen gelten für die App **Quick Stock: Inventory Manager** (nachfolgend als „die Anwendung“ bezeichnet) für mobile Geräte, die von **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (nachfolgend als „Dienstanbieter“ bezeichnet) als Freemium-Dienst entwickelt wurde.
+Diese Allgemeinen Geschäftsbedingungen gelten für die App **Quick Stock** (nachfolgend als „die Anwendung“ bezeichnet) für mobile Geräte, die von **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (nachfolgend als „Dienstanbieter“ bezeichnet) als Freemium-Dienst entwickelt wurde.
 
 Durch das Herunterladen oder Nutzen der Anwendung stimmen Sie automatisch den folgenden Bedingungen zu. Es wird dringend empfohlen, dass Sie diese Bedingungen vor der Nutzung der Anwendung sorgfältig lesen. Jegliches unbefugte Kopieren oder Modifizieren der Anwendung, eines Teils der Anwendung oder unserer Marken ist strengstens untersagt. Versuche, den Quellcode der Anwendung zu extrahieren, die Anwendung in andere Sprachen zu übersetzen oder abgeleitete Versionen zu erstellen, sind nicht gestattet. Alle Markenrechte, Urheberrechte, Datenbankrechte und sonstigen geistigen Eigentumsrechte in Bezug auf die Anwendung verbleiben im Besitz des Dienstanbieters.
 
@@ -232,7 +232,7 @@ Falls Sie Fragen oder Anregungen zu den Allgemeinen Geschäftsbedingungen haben,
 
 # नियम और शर्तें
 
-ये नियम और शर्तें **Quick Stock: Inventory Manager** ऐप (जिसे आगे "एप्लिकेशन" कहा गया है) के लिए लागू होती हैं, जो मोबाइल उपकरणों के लिए **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (जिसे आगे "सेवा प्रदाता" कहा गया है) द्वारा एक फ्रीमियम सेवा के रूप में विकसित की गई है।
+ये नियम और शर्तें **Quick Stock** ऐप (जिसे आगे "एप्लिकेशन" कहा गया है) के लिए लागू होती हैं, जो मोबाइल उपकरणों के लिए **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (जिसे आगे "सेवा प्रदाता" कहा गया है) द्वारा एक फ्रीमियम सेवा के रूप में विकसित की गई है।
 
 एप्लिकेशन डाउनलोड करने या उपयोग करने पर, आप स्वचालित रूप से निम्नलिखित नियमों से सहमत होते हैं। एप्लिकेशन का उपयोग करने से पहले इन नियमों को ध्यान से पढ़ना और समझना अत्यधिक आवश्यक है। एप्लिकेशन या इसके किसी भी भाग या हमारी ट्रेडमार्क का अनधिकृत प्रतिलिपि बनाना, संशोधन करना सख्ती से मना है। एप्लिकेशन के सोर्स कोड को निकालने, इसे अन्य भाषाओं में अनुवाद करने या डेरिवेटिव संस्करण बनाने का प्रयास करना भी निषिद्ध है। एप्लिकेशन से संबंधित सभी ट्रेडमार्क, कॉपीराइट, डेटाबेस अधिकार और अन्य बौद्धिक संपत्ति अधिकार सेवा प्रदाता की संपत्ति में बने रहेंगे।
 
@@ -273,7 +273,7 @@ Falls Sie Fragen oder Anregungen zu den Allgemeinen Geschäftsbedingungen haben,
 
 # Termini e Condizioni
 
-Questi Termini e Condizioni si applicano all'applicazione **Quick Stock: Inventory Manager** (di seguito denominata "Applicazione") per dispositivi mobili, creata da **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (di seguito denominato "Fornitore di Servizi") come servizio Freemium.
+Questi Termini e Condizioni si applicano all'applicazione **Quick Stock** (di seguito denominata "Applicazione") per dispositivi mobili, creata da **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (di seguito denominato "Fornitore di Servizi") come servizio Freemium.
 
 Scaricando o utilizzando l'Applicazione, accetti automaticamente i seguenti termini. Si consiglia vivamente di leggere e comprendere attentamente questi termini prima di utilizzare l'Applicazione. La copia non autorizzata, la modifica dell'Applicazione, di qualsiasi parte dell'Applicazione o dei nostri marchi è severamente vietata. Qualsiasi tentativo di estrarre il codice sorgente dell'Applicazione, tradurre l'Applicazione in altre lingue o creare versioni derivate non è consentito. Tutti i marchi, i diritti d'autore, i diritti di database e altri diritti di proprietà intellettuale relativi all'Applicazione rimangono di proprietà del Fornitore di Servizi.
 
@@ -314,7 +314,7 @@ Se hai domande o suggerimenti riguardo ai Termini e Condizioni, non esitare a co
 
 # 利用規約
 
-この利用規約は、モバイルデバイス向けのアプリケーション **Quick Stock: Inventory Manager**（以下「アプリケーション」と呼びます）に適用されます。このアプリケーションは **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下「サービス提供者」と呼びます）によって、フリーミアムサービスとして提供されています。
+この利用規約は、モバイルデバイス向けのアプリケーション **Quick Stock**（以下「アプリケーション」と呼びます）に適用されます。このアプリケーションは **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下「サービス提供者」と呼びます）によって、フリーミアムサービスとして提供されています。
 
 アプリケーションをダウンロードまたは利用することで、以下の利用規約に同意したものとみなされます。アプリケーションを利用する前に、これらの利用規約をよく読み、理解することを強くお勧めします。アプリケーション、またはその一部、または当社の商標を無断でコピー、改変することは固く禁じられています。また、アプリケーションのソースコードを抽出したり、他の言語に翻訳したり、派生バージョンを作成することも禁止されています。アプリケーションに関するすべての商標、著作権、データベース権、およびその他の知的財産権は、サービス提供者に帰属します。
 
@@ -355,7 +355,7 @@ Wi-Fiエリア外でアプリケーションを使用する場合、モバイル
 
 # Условия использования
 
-Настоящие условия использования распространяются на мобильное приложение **Quick Stock: Inventory Manager** (далее именуемое «Приложение»), предоставляемое компанией **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (далее именуемой «Поставщик услуг») в качестве freemium-сервиса.
+Настоящие условия использования распространяются на мобильное приложение **Quick Stock** (далее именуемое «Приложение»), предоставляемое компанией **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (далее именуемой «Поставщик услуг») в качестве freemium-сервиса.
 
 Загружая или используя Приложение, вы автоматически соглашаетесь с нижеследующими условиями. Настоятельно рекомендуется внимательно прочитать и понять эти условия перед использованием Приложения. Запрещается несанкционированное копирование или модификация Приложения, его любой части, а также наших товарных знаков. Любые попытки извлечь исходный код Приложения, перевести его на другие языки или создать производные версии не допускаются. Все товарные знаки, авторские права, права на базы данных и другие интеллектуальные права, связанные с Приложением, остаются собственностью Поставщика услуг.
 
@@ -396,7 +396,7 @@ Wi-Fiエリア外でアプリケーションを使用する場合、モバイル
 
 # Términos y Condiciones
 
-Estos términos y condiciones se aplican a la aplicación móvil **Quick Stock: Inventory Manager** (en adelante, la "Aplicación") desarrollada por **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (en adelante, el "Proveedor de Servicios") como un servicio freemium.
+Estos términos y condiciones se aplican a la aplicación móvil **Quick Stock** (en adelante, la "Aplicación") desarrollada por **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (en adelante, el "Proveedor de Servicios") como un servicio freemium.
 
 Al descargar o utilizar la Aplicación, aceptas automáticamente los siguientes términos. Se recomienda encarecidamente leer y comprender estos términos antes de utilizar la Aplicación. Está prohibida la copia no autorizada o modificación de la Aplicación, de cualquier parte de la misma o de nuestras marcas registradas. No se permite intentar extraer el código fuente de la Aplicación, traducirla a otros idiomas o crear versiones derivadas. Todos los derechos de marca, derechos de autor, derechos sobre bases de datos y otros derechos de propiedad intelectual relacionados con la Aplicación permanecen como propiedad del Proveedor de Servicios.
 
@@ -437,7 +437,7 @@ Si tienes alguna pregunta o sugerencia sobre los Términos y Condiciones, no dud
 
 # Hüküm ve Koşullar
 
-Bu hüküm ve koşullar, **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından bir Freemium hizmet olarak geliştirilen **Quick Stock: Inventory Manager** (bundan böyle "Uygulama" olarak anılacaktır) mobil uygulaması için geçerlidir.
+Bu hüküm ve koşullar, **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından bir Freemium hizmet olarak geliştirilen **Quick Stock** (bundan böyle "Uygulama" olarak anılacaktır) mobil uygulaması için geçerlidir.
 
 Uygulamayı indirerek veya kullanarak, otomatik olarak aşağıdaki şartları kabul etmiş oluyorsunuz. Uygulamayı kullanmadan önce bu şartları dikkatlice okumanız ve anlamanız önemle tavsiye edilir. Uygulamanın veya herhangi bir bölümünün izinsiz olarak kopyalanması veya değiştirilmesi, ya da ticari markalarımızın izinsiz kullanımı kesinlikle yasaktır. Uygulamanın kaynak kodunu çıkarmaya, başka dillere çevirmeye veya türev versiyonlar oluşturmaya yönelik tüm girişimler yasaktır. Uygulama ile ilgili tüm ticari marka, telif hakkı, veri tabanı hakları ve diğer fikri mülkiyet hakları Hizmet Sağlayıcıya aittir.
 
