@@ -27,7 +27,7 @@
 
 # Privacy Policy
 
-This privacy policy applies to the Quick Stock: Inventory Manager app (hereby referred to as "Application") for mobile devices that was created by MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the **Quick Stock** app (hereby referred to as "Application") for mobile devices that was created by MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
@@ -105,7 +105,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 # سياسة الخصوصية
 
-تنطبق سياسة الخصوصية هذه على تطبيق **Quick Stock: Inventory Manager** (ويشار إليه فيما بعد باسم "**التطبيق**") للأجهزة المحمولة الذي أنشأته شركة **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ويشار إليها فيما بعد باسم "**مقدم الخدمة**") كخدمة مجانية مع إمكانية الاشتراك. هذه الخدمة مخصصة للاستخدام "كما هي".
+تنطبق سياسة الخصوصية هذه على تطبيق **Quick Stock** (ويشار إليه فيما بعد باسم "**التطبيق**") للأجهزة المحمولة الذي أنشأته شركة **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ويشار إليها فيما بعد باسم "**مقدم الخدمة**") كخدمة مجانية مع إمكانية الاشتراك. هذه الخدمة مخصصة للاستخدام "كما هي".
 
 ## جمع المعلومات واستخدامها
 
@@ -183,7 +183,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 # 隐私政策
 
-本隐私政策适用于移动设备上的 **Quick Stock: Inventory Manager** 应用程序（以下简称为 "**应用程序**"），该应用程序由 **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下简称为 "**服务提供商**"）创建，作为一项免费增值服务。此服务仅供 "按现状" 使用。
+本隐私政策适用于移动设备上的 **Quick Stock** 应用程序（以下简称为 "**应用程序**"），该应用程序由 **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下简称为 "**服务提供商**"）创建，作为一项免费增值服务。此服务仅供 "按现状" 使用。
 
 ## 信息收集和使用
 
@@ -261,7 +261,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 # Politique de Confidentialité
 
-Cette politique de confidentialité s'applique à l'application **Quick Stock: Inventory Manager** (ci-après dénommée "**Application**") pour les appareils mobiles, créée par **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ci-après dénommé "**Fournisseur de Services**") en tant que service Freemium. Ce service est fourni "TEL QUEL".
+Cette politique de confidentialité s'applique à l'application **Quick Stock** (ci-après dénommée "**Application**") pour les appareils mobiles, créée par **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (ci-après dénommé "**Fournisseur de Services**") en tant que service Freemium. Ce service est fourni "TEL QUEL".
 
 ## Collecte et Utilisation des Informations
 
@@ -339,7 +339,7 @@ Si vous avez des questions concernant la confidentialité lors de l'utilisation 
 
 # Datenschutzrichtlinie
 
-Diese Datenschutzrichtlinie gilt für die **Quick Stock: Inventory Manager** App (nachfolgend als "**Anwendung**" bezeichnet) für mobile Geräte, die von **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (nachfolgend als "**Dienstanbieter**" bezeichnet) als Freemium-Dienst erstellt wurde. Dieser Dienst wird "WIE BESEHEN" bereitgestellt.
+Diese Datenschutzrichtlinie gilt für die **Quick Stock** App (nachfolgend als "**Anwendung**" bezeichnet) für mobile Geräte, die von **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (nachfolgend als "**Dienstanbieter**" bezeichnet) als Freemium-Dienst erstellt wurde. Dieser Dienst wird "WIE BESEHEN" bereitgestellt.
 
 ## Erfassung und Nutzung von Informationen
 
@@ -417,7 +417,7 @@ Wenn Sie Fragen zum Datenschutz bei der Nutzung der Anwendung haben oder Fragen 
 
 # गोपनीयता नीति
 
-यह गोपनीयता नीति **Quick Stock: Inventory Manager** ऐप (जिसे आगे "**एप्लिकेशन**" के रूप में संदर्भित किया गया है) के लिए है, जिसे **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (जिसे आगे "**सेवा प्रदाता**" के रूप में संदर्भित किया गया है) द्वारा एक फ्रीमियम सेवा के रूप में विकसित किया गया है। यह सेवा "जैसा है" के आधार पर प्रदान की गई है।
+यह गोपनीयता नीति **Quick Stock** ऐप (जिसे आगे "**एप्लिकेशन**" के रूप में संदर्भित किया गया है) के लिए है, जिसे **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (जिसे आगे "**सेवा प्रदाता**" के रूप में संदर्भित किया गया है) द्वारा एक फ्रीमियम सेवा के रूप में विकसित किया गया है। यह सेवा "जैसा है" के आधार पर प्रदान की गई है।
 
 ## जानकारी का संग्रह और उपयोग
 
@@ -495,7 +495,7 @@ Wenn Sie Fragen zum Datenschutz bei der Nutzung der Anwendung haben oder Fragen 
 
 # Informativa sulla Privacy
 
-Questa informativa sulla privacy si applica all'app **Quick Stock: Inventory Manager** (di seguito denominata "**Applicazione**") per dispositivi mobili, creata da **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (di seguito denominato "**Fornitore di Servizi**") come servizio Freemium. Questo servizio è fornito "così com'è".
+Questa informativa sulla privacy si applica all'app **Quick Stock** (di seguito denominata "**Applicazione**") per dispositivi mobili, creata da **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (di seguito denominato "**Fornitore di Servizi**") come servizio Freemium. Questo servizio è fornito "così com'è".
 
 ## Raccolta e Uso delle Informazioni
 
@@ -573,7 +573,7 @@ Se hai domande riguardanti la privacy durante l'utilizzo dell'Applicazione o dom
 
 # プライバシーポリシー
 
-このプライバシーポリシーは、モバイルデバイス用アプリ**Quick Stock: Inventory Manager**（以下「**アプリケーション**」といいます）に適用されます。このアプリケーションは、**MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下「**サービス提供者**」といいます）によって、Freemiumサービスとして提供されています。本サービスは「現状のまま」で提供されます。
+このプライバシーポリシーは、モバイルデバイス用アプリ**Quick Stock**（以下「**アプリケーション**」といいます）に適用されます。このアプリケーションは、**MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI**（以下「**サービス提供者**」といいます）によって、Freemiumサービスとして提供されています。本サービスは「現状のまま」で提供されます。
 
 ## 情報の収集と利用
 
@@ -651,7 +651,7 @@ Se hai domande riguardanti la privacy durante l'utilizzo dell'Applicazione o dom
 
 # Политика конфиденциальности
 
-Настоящая Политика конфиденциальности применяется к мобильному приложению **Quick Stock: Inventory Manager** (далее - «**Приложение**»), которое предоставляется компанией **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (далее - «**Поставщик услуг**»). Приложение предоставляется как Freemium сервис на основе «как есть».
+Настоящая Политика конфиденциальности применяется к мобильному приложению **Quick Stock** (далее - «**Приложение**»), которое предоставляется компанией **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (далее - «**Поставщик услуг**»). Приложение предоставляется как Freemium сервис на основе «как есть».
 
 ## Сбор и использование информации
 
@@ -729,7 +729,7 @@ Se hai domande riguardanti la privacy durante l'utilizzo dell'Applicazione o dom
 
 # Política de Privacidad
 
-Esta Política de Privacidad se aplica a la aplicación móvil **Quick Stock: Inventory Manager** (en adelante, "la **Aplicación**"), creada por **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (en adelante, "el **Proveedor de Servicios**"). La Aplicación se ofrece como un servicio Freemium y se proporciona tal cual ("AS IS").
+Esta Política de Privacidad se aplica a la aplicación móvil **Quick Stock** (en adelante, "la **Aplicación**"), creada por **MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI** (en adelante, "el **Proveedor de Servicios**"). La Aplicación se ofrece como un servicio Freemium y se proporciona tal cual ("AS IS").
 
 ## Recopilación y Uso de Información
 
@@ -807,7 +807,7 @@ Si tienes alguna pregunta sobre la privacidad mientras usas la Aplicación, o pr
 
 # Gizlilik Politikası
 
-Bu gizlilik politikası, MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından oluşturulan **Quick Stock: Inventory Manager** uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet, "AS IS" olarak sunulan bir Freemium hizmetidir.
+Bu gizlilik politikası, MIMOL YAZILIM SISTEMLERI TICARET LIMITED SIRKETI (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından oluşturulan **Quick Stock** uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet, "AS IS" olarak sunulan bir Freemium hizmetidir.
 
 ## Bilgi Toplama ve Kullanım
 
